@@ -1,0 +1,6 @@
+0 +++$+++ shenhua8369 +++$+++ unity导出插件现在去哪里下载？
+1 +++$+++ GrantCheung +++$+++ https://github.com/egret-labs/egret-3d/tree/4f47a252af3436ef20078274fdf5eb955f0d0446/ExportTools
+2 +++$+++ skyshow +++$+++ 如何删除子对象
+3 +++$+++ 天神仔 +++$+++ this.removeChild(this.view)
+4 +++$+++ arvin0 +++$+++ 可以关闭exml打包集成吗？
+5 +++$+++ yjtx +++$+++ 你先看下 thm.json 有没有这个 exml 文件解析，如果有就不会再去加载 exml 了
