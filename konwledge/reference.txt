@@ -1,0 +1,7 @@
+PyTorch 79. NVIDIA训练深度学习模型神器APEX详细介绍：https://zhuanlan.zhihu.com/p/406319979
+Adam优化算法(Adam optimization algorithm)：https://zhuanlan.zhihu.com/p/151844708
+NLP教程笔记：GPT 单向语言模型：https://blog.csdn.net/nanke_4869/article/details/113741998
+十分钟理解Transformer：https://zhuanlan.zhihu.com/p/82312421
+UniLM:一种既能阅读又能自动生成的预训练模型：https://cloud.tencent.com/developer/article/1573393
+unlium语言模型：https://arxiv.org/pdf/1905.03197.pdf
+深度学习训练模型中的 Epoch，Batchsize，Iterations ：https://www.cnblogs.com/emanlee/p/14402869.html#:~:text=%E4%B8%80%E4%B8%AAEpoch%E5%B0%B1,%E8%AE%AD%E7%BB%83%E4%B8%80%E6%AC%A1%E7%9A%84%E8%BF%87%E7%A8%8B%E3%80%82
