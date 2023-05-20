@@ -13,7 +13,7 @@ This project is a imation of LIKE_CHAT_GPT.the base of the project is UNILM whic
 ## corpus
 egrget_corpus is the main corpus that used. Also, there have many other excellent corpus. 
 
-link:
+link:https://github.com/candlewill/Dialog_Corpus
 
 ## How to lanuch
 **attention **
