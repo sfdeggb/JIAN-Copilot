@@ -1,8 +1,8 @@
-# Jian-N-Roboot
+# JIAN-N-ROBOOT
 
 HPOEING YOU COMING!
 
-## logo
+## LOGO  
 
 ![image](https://github.com/sfdeggb/JIAN-N-QA-ROBOOT/assets/95692531/f18eff4d-ef67-4015-a510-3a9add13679a)
 
