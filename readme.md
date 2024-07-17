@@ -8,7 +8,7 @@ This project is a imation of LIKE_CHAT_GPT.The base of the project is UNILM whic
 Egrget_corpus is the main corpus that used. Also, there have many other excellent corpus. 
 Link:https://github.com/candlewill/Dialog_Corpus
 ### 3.How to lanuch
-**Attention **
+**Attention**
 this project only have its source code. the data and model is so large that can not be upload. so you have two choice to deploy it. the first is download the origin corpus and then runing the relation code that be used to preprocessing, traing, and test. The sceond is to download the data and model preprocesing. the below is we talk about the second simple way to launch to project.
 > 1. download the dealed data and trained model.the address is below.
 > 2. put the "egert_wenda_lines.json" under the /data. and put the pytorch_model.bin, optim.json,config.json under the /jiann_wenda_model.
